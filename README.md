@@ -23,7 +23,7 @@ Bipolar Junction Transistor (BJT) Circuit
 - Other relevant circuit components
 
 ## How to View
-1. Open the `.tsc` file with appropriate circuit design software
+1. Open the `.tsc` file with TINA-TI software or appropriate circuit design software
 2. Reference the screenshot for visual confirmation
 3. Analyze the waveform image
 4. Review handwritten calculations for detailed insights
