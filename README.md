@@ -22,12 +22,6 @@ Bipolar Junction Transistor (BJT) Circuit
 - Resistors
 - Other relevant circuit components
 
-## Calculation Methodology
-Handwritten calculations provide a step-by-step breakdown of:
-- Circuit analysis
-- Component selection
-- Performance characteristics
-
 ## How to View
 1. Open the `.tsc` file with appropriate circuit design software
 2. Reference the screenshot for visual confirmation
